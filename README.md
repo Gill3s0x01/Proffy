@@ -120,6 +120,10 @@ $ cd Proffy/web
 # Install Dependencies
 $ yarn install
 
+# If there is an error, in "react-dom", perform the installation below
+$ yarn add @types/react-router-dom -D
+$ yarn add axios
+
 # Run Aplication
 $ yarn start
 ```
