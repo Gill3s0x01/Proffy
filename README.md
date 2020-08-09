@@ -159,7 +159,7 @@ Check out the [contributing](./CONTRIBUTING.md) page to see the best places to f
 
 Released in 2020 :closed_book: License
 
-Made with love by [Lorison Gilles](https://github.com/Gilles30) 🚀.
+Made with love by [Lorison Gilles](lorison-gilles.netlify.app/) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
