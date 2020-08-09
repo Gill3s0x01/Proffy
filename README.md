@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e5464c9-0cdf-4cd2-b877-11cc0c774199/deploy-status)](https://app.netlify.com/sites/proffy-gilles30/deploys)
 
 <p align="center">
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
