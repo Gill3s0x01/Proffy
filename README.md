@@ -74,9 +74,9 @@
 
 # :eyes: Demo Website
 You can acess the website at:     
-👉  demo: ---
+👉  demo: https://www.youtube.com/watch?v=ptABXX-Amm4
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](---)      
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b13a4b1-96e1-4ff3-86e3-4c9b981c77cf/deploy-status)](https://www.youtube.com/watch?v=ptABXX-Amm4)      
 
 
 # :computer: Technologies
